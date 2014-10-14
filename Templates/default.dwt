@@ -25,10 +25,10 @@ body {
   <tr>
     <td align="left" valign="top" bgcolor="#CCCCCC"><table width="1000" border="1">
       <tr>
-        <td width="250" height="35" align="center" valign="middle" background="../images/Button.jpg"><strong>Home</strong></td>
-         <td width="250" height="35" align="center" valign="middle" background="../images/Button.jpg"><strong>IRC</strong></td>
-         <td width="250" height="35" align="center" valign="middle" background="../images/Button.jpg"><strong>Contact</strong></td>
-         <td width="250" height="35" align="center" valign="middle" background="../images/Button.jpg"><strong>To Do List</strong></td>
+        <td width="250" height="35" align="center" valign="middle" background="../images/Button.jpg"><a href="http://romtam.me"><strong>Home</strong></a></td>
+         <td width="250" height="35" align="center" valign="middle" background="../images/Button.jpg"><strong><a href="http://romtam.me/irc">IRC</a></strong></td>
+         <td width="250" height="35" align="center" valign="middle" background="../images/Button.jpg"><strong><a href="http://romtam.me/contact-me">Contact</a></strong></td>
+         <td width="250" height="35" align="center" valign="middle" background="../images/Button.jpg"><strong><a href="http://romtam.me/to-do">To Do List</a></strong></td>
       </tr>
     </table>
       <table width="1000" height="116" border="1">
@@ -38,7 +38,7 @@ body {
               <!-- TemplateBeginEditable name="1" --><!-- TemplateEndEditable -->
               <table width="1000" border="0" cellspacing="0" cellpadding="0">
                 <tr>
-                  <td align="center" valign="top"><!-- TemplateBeginEditable name="2" -->2<!-- TemplateEndEditable --></td>
+                  <td align="center" valign="top">&nbsp;</td>
                 </tr>
               </table>
             </center>
