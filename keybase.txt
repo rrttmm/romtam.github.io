@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/romtam
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://romtam.net
+  * I am romtam (https://keybase.io/romtam) on keybase.
+  * I have a public key with fingerprint 8D82 6079 D270 CAAA F724  9A4A F924 0108 7D38 27AB
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "8d826079d270caaaf7249a4af92401087d3827ab",
+            "host": "keybase.io",
+            "key_id": "f92401087d3827ab",
+            "uid": "ef2b834973c08ef3bf8e0a0cb80e1200",
+            "username": "romtam"
+        },
+        "service": {
+            "hostname": "romtam.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1415507848,
+    "expire_in": 157680000,
+    "prev": "2ebda40ed33096c2a73579cd38ac0a4f17366ce8c7f2ee80482139d350cc9b4d",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.3
+Comment: https://keybase.io/crypto
+
+yMHjAnicbVFdSBRRGF0z21wrDTHUSPPSQ9Sy3fnZnZkNjSQrDeuhoDRtuzNzZ51c
+Z7bdcXU1kxBJfCgfUrEfCyyoDEy3SMlSyjYwiozwJTSE1ogSo4cITOqO1EPQffm4
+5zvnfN/hG1sdb7HFPY/VTV4vyrwY92J0rtpy6Nh8Sz0QdTkM3PWgEi8VRdW8OOAP
+qJoB3ICXedoFOUGmOSghhBSOZgXEIkWgWUhBnpMZnuaQCOygQg+aCmIjoiB2qDrB
+yMejygT9D796qYEVWuQZVuAYCfJYYUSFxxBBSeQhpmgITWIQBzRUhQk7oFcZqAo0
+2AHBQqqEzY3Nwf/0HRo2iM4f0A1d0n0ErzAMv9uUGWG/yavBouePg0dUNZlkJoIQ
+DgRVXQNuijAlQzUtKZZyOiHHs7wd4Fq/GsAe1WQ4ORcPyTPH4BCxpLEoIxZimWGg
+4JJoxDFOTpBIXiRBxCoUx7hcEuYlTqEx5iHL0xQjyIwTSpIgsjIwM53UdOCmyZrI
+SyyDqldDRnUAg4Yno2XLLXE2y4qEZebVLLbElL+3LFmw/lxjzd/buXKsrqx7Zn/L
+cDJVm9V1fsRb2ig7rmb05TSB9/envs8mDT2McWmRrdFm7saX/B1vC19O2fMeGb1G
+a6K/sTg8M25PmLpXk7l5ffG1Dae3HO4oX6d9W0iJzl58Fvt083LGntFCvT3y8fPA
+3cVO16kLEJ0tCX9oj46XGU932r5O97DsvMPXHQFd/btl66ZV6be2b0zstbXty0ka
+XHsplO08Y8vwvR4yHMpsTf+vlNKjWZXdE7uOeGJt29Lysgf6RnzWoQPeOaa1586D
+pNw3c9PBK6nJkXcnrMPxuccnC1JfRZtSvSB68FxB+mJHOQr+qIgvuh0pmnjcbBns
++g0NAQ4u
+=YTZU
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/romtam
+
+==================================================================
